@@ -1,0 +1,25 @@
+span
+{
+    color:white;
+}
+.header
+{
+    background-color: #1034A6;
+}
+
+.footer
+{
+    background-color: #1034A6;
+    color:white;
+}
+
+.nav-link
+{
+    color:white;
+}
+
+img
+{
+    width: 100%;
+    height:100%;
+}
